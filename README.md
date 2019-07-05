@@ -20,7 +20,7 @@
 
 - QuickTime + iMovie Mac 自带的录屏 + 剪辑软件，满足我不是很大的视频制作需求。
 
-- [ShiftIt](https://github.com/fikovnik/ShiftIt) 可以快捷键控制窗口布局，`Ctrl` + `Command` + `Option` + `→` 就是把当前窗口占据右边半屏这样。我不喜欢 Mac 的最大化，所以选用了这个方案。
+- [ShiftIt](https://github.com/fikovnik/ShiftIt) 可以快捷键控制窗口布局，`⌃⌥⌘→` 就是把当前窗口占据右边半屏这样。我不喜欢 Mac 的最大化，所以选用了这个方案。
 
 - [iStat](https://bjango.com/mac/istatmenus/) 硬件监控，用过一段时间，总体是很好用的，机器配置没有觉得紧张，就没有再用。
 
@@ -49,8 +49,6 @@
 - [LeetCode](https://leetcode.com/)，LeetCode 刷题的体验比我刚开始学算法的时候好了很多很多。
 
 - [coder](https://dancerphil.github.io/coder/)，一个我自己写的小网页，可以临时记一些笔记，存在 locaStorage 里，省去了记在本地文件里。
-
-## IDE
 
 ## Chrome Extension
 
@@ -82,7 +80,7 @@ __工作__
 
 - [罗技 G502](https://www.logitechg.com.cn/zh-cn/products/gaming-mice/g502-proteus-spectrum-rgb-gaming-mouse.html)，之前有个雷蛇用坏了，换了这个。配套一个配置软件 [LGS](http://support.logitech.com/software/lgs) 自定义键位提高开发效率。罗技还有个 G Hub 的配置软件我觉得不太行，花哨却难用。
 
-- 其他包括一张桌面鼠标垫，DPI 比较低。两个转接坞。
+- 其他包括一张桌面鼠标垫。两个转接坞。
 
 __生活__
 
@@ -96,6 +94,58 @@ __生活__
 
 ## 快捷键
 
-## 书 & 视频
+我喜欢鼠标定位，有些同学喜欢键盘定位的，这是纯习惯问题。所以我会把一些定位相关的功能放在鼠标自定义键上，方便操作。
 
-## 娱乐
+__鼠标__
+
+![](https://github.com/dancerphil/awesome/blob/master/mouse.png)
+
+中键两侧的键，通过中指操作中键向左点击和向右点击。这两个键，分别绑定了 `⌃⇧⇥` 和 `⌃⇥`，对应 Chrome 里的 `选择上/下一个标签`，对应 WebStorm 里 `Close Others` 和 `Switcher`， `Close Others` 可以关闭所有打开的文件，只留当前一个， `Switcher` 可以切换至最近用的那个文件，这样我就可以很方便的同时修改多个文件。另外可以考虑的是 `Select Previous Tab` 和 `Select Next Tab`，和 Chrome 的体验一致。
+
+左键左侧的两个键，通过食指点击，我绑定了 `⌃→` 和 `⌃←` 用来控制 Mac 多桌面，这两个键用的很少，另外也可以考虑绑定 Chrome `前进/后退`，但是我用 `前进/后退` 用的更少。
+
+拇指上方的两个键，通过拇指点击，我绑定了 `⌥⌘D` 和 `⌃↑`，`⌥⌘D` 用来 `展示/隐藏` 程序坞，在我想要启动程序的时候才展示程序坞，`⌃↑` 用来代替 `⌘⇥` 做窗口切换，这个体验是一直在鼠标上的，所以很顺畅。
+
+G切换键和配置文件键闲置中，理论上利用这两个功能可以配出 36 个快捷键，不过这谁操作的过来啊。
+
+__Chrome__
+
+![](https://github.com/dancerphil/awesome/blob/master/app-shortcuts.png)
+
+首先，我禁用了 `⌘W` 和 `⌘S`，在 WebStorm 频繁使用这两个键，到了 Chrome 经常误触。另外，我开启了 `⌘1~9` 快速切换的功能，有两个用，一个是你可以有一些习惯，比如你的第一个标签一直是 `localhost`，你就可以 `⌘1` 过去。另一个是在开发者工具里切换 `Element`, `Console` 之类，它们的位置是固定的。
+
+Chrome 是一个非常变态的软件，开发者文档多到数不清。
+
+__WebStorm__
+
+__WebStorm Others__
+
+Theme 用的 Darcula，Scheme 是在 Darcula 基础上自己配的，主要是为了调整对不同代码的注意力。不过这个不要投入太多精力，毕竟 WebStorm 也在升级。说到 Webstorm 的升级，我觉得最好的策略是使用最新的 stable 版本，每个版本的功能或多或少会有惊喜，但同样因为功能多的原因，预发布不会特别稳定。
+
+另外有一个特别推荐的功能，即 Live Templates 功能，在你输入特定的字符，就可以进入 template 过程，整个行文的思路也完全由你控制。
+
+## 书 & 视频 & 游戏
+
+这一部分就只说最近两年看到的比较好的，不过品味因人而异。
+
+__书__
+
+- __《天生不同-人格类型识别和潜能开发》__ 心理学入门读物，俗称 MBTI
+
+- __《你一定爱读的极简欧洲史》__ 欧洲中世纪史通俗读物
+
+- __《刀锋》__ 小说名著
+
+- __《日本维新六十年》__ 日本近代史通俗读物
+
+__视频__
+
+- __B站《【江怡】分析哲学（全59讲）》__ 分析哲学入门
+
+__游戏__
+
+- __iOS《Florence》__ 据说是双平台
+
+- __安卓《月圆之夜》__ 应该是双平台
+
+- __安卓《隐形守护者》__ PC 上有，iOS 不确定。
