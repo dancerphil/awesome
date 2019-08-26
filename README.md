@@ -4,7 +4,7 @@
 
 列一些我在用的软件
 
-- [SourceTree](https://www.sourcetreeapp.com/) 主要是为了看历史，操作还是需要用 terminal，它的多远端的可视化非常好用，之前还用它内置的 git flow，后来换了分支模式。
+- [SourceTree](https://www.sourcetreeapp.com/) 主要是为了看 git 历史，操作还是需要用 terminal，它的多远端的可视化非常好用，之前还用它内置的 git flow，后来换了分支模式。
 
 - [iterm2](https://iterm2.com/) + [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) + [autosuggestion](https://github.com/zsh-users/zsh-autosuggestions) 样式是自己调的，比较多用的两个 plugin 是快速跳转 `z`，和自动补全。
 
@@ -46,7 +46,7 @@
 
 - [twitter](https://twitter.com/) + [知乎](https://www.zhihu.com/)，我的 twitter 只关注了前端领域的各位著名作者，他们天天吹逼，特别有意思，并且也能及时知道各种消息。国内的开发者的交流主要靠知乎，不用微博。
 
-- [LeetCode](https://leetcode.com/)，LeetCode 刷题的体验比我刚开始学算法的时候好了很多很多。
+- [LeetCode](https://leetcode-cn.com/)，LeetCode 刷题的体验比我刚开始学算法的时候好了很多很多。
 
 - [coder](https://dancerphil.github.io/coder/)，一个我自己写的小网页，可以临时记一些笔记，存在 locaStorage 里，省去了记在本地文件里。
 
@@ -58,7 +58,7 @@
 
 - [React DevTool](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) ，react 开发者必备插件，提供了强大的调试能力，当然，也要善用 Chrome 自带的开发者工具。
 
-- [Stylish](https://github.com/stylish-userstyles/stylish-chrome)，可以为任何网站编写 css 注入。当然我另外找到了一个为任何网站编写 js 注入的插件 [Custom-JavaScript-for-Websites-2](https://github.com/xcv58/Custom-JavaScript-for-Websites-2)，真的很好用，不过这两个插件的权限也是真的很高。
+- [Stylish](https://github.com/stylish-userstyles/stylish-chrome)，可以为任何网站编写 css 注入。当然我另外找到了一个为任何网站编写 js 注入的插件 [Custom-JavaScript-for-Websites-2](https://github.com/xcv58/Custom-JavaScript-for-Websites-2)。
 
 - [JSON formatter](https://github.com/callumlocke/json-formatter)，之前用过 [JSON-handle](https://github.com/wilon/JSON-handle) 然后转到了 JSON formatter，这个清爽一些。
 
@@ -124,6 +124,24 @@ Theme 用的 Darcula，Scheme 是在 Darcula 基础上自己配的，主要是�
 
 另外有一个特别推荐的功能，即 Live Templates 功能，在你输入特定的字符，就可以进入 template 过程，整个行文的思路也完全由你控制。
 
+| 常用的一些快捷键 | 说明 |
+| --- | --- |
+| `⌘Q` | 退出 |
+| `⌘A`, `⌘X`, `⌘C`, `⌘V` | 全选，剪切，复制，粘贴 |
+| `⌘F`, `⌘R` | 查找，替换 |
+| `⌘Z`, `⌘Y` | 撤销，重复 |
+| `⌘W` | eslint --fix |
+| `⌘E` | 收起代码块 |
+| `⌘U` | 切换大小写 |
+| `⌘D` | 删除单行 |
+| `⌘G` | 查找 usage |
+| `⌘H` | 全局查找 |
+| `⌘J` | 多行合并 |
+| 双击 `⇧` | 跳转文件 |
+| `⌥` | 多光标 |
+| `F2` | 重命名 |
+| `⌥⌘M` | 抽出函数 |
+
 ## 书 & 视频 & 游戏
 
 这一部分就只说最近两年看到的比较好的，不过品味因人而异。
@@ -142,10 +160,22 @@ __视频__
 
 - __B站《【江怡】分析哲学（全59讲）》__ 分析哲学入门
 
+- __爱奇艺《长安十二时辰》__ 
+
+- __B站《【戈登·拉姆齐】终极烹饪教程》__ 米其林
+
 __游戏__
 
 - __iOS《Florence》__ 据说是双平台
 
-- __安卓《月圆之夜》__ 应该是双平台
-
 - __安卓《隐形守护者》__ PC 上有，iOS 不确定。
+
+__知乎会员__
+
+- __不吹不黑聊聊前端框架__ 尤雨溪
+
+- __AI时代的创新机会__ 陆奇
+
+- __穿越经济周期的投资课__ 管清友
+
+- __一起做一份惊艳的PPT__ 郦橙锦妖
