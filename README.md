@@ -101,6 +101,7 @@ __鼠标__
 ![](https://github.com/dancerphil/awesome/blob/master/mouse.png)
 
 | 鼠标快捷键 | 说明 | 位置 |
+| --- | --- |
 | `⌃⇧⇥`, `⌃⇥` | Chrome `选择上/下一个标签`, WebStorm `Close Others/Switcher`(注) | 中键两侧 |
 | `⌃→`, `⌃←` | 控制 Mac 多桌面（用的较少） | 左键左侧 |
 | `⌥⌘D` | `展示/隐藏` 程序坞 | 拇指上方靠前 |
