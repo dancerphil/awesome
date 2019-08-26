@@ -179,3 +179,7 @@ __知乎会员__
 - __《穿越经济周期的投资课》__ 管清友
 
 - __《一起做一份惊艳的PPT》__ 郦橙锦妖
+
+__其他__
+
+- [The Incredible Proof Machine](http://incredible.pm/) 可视化学习形式证明
