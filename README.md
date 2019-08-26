@@ -46,7 +46,7 @@
 
 - [twitter](https://twitter.com/) + [知乎](https://www.zhihu.com/)，我的 twitter 只关注了前端领域的各位著名作者，他们天天吹逼，特别有意思，并且也能及时知道各种消息。国内的开发者的交流主要靠知乎，不用微博。
 
-- [LeetCode](https://leetcode-cn.com/)，LeetCode 刷题的体验比我刚开始学算法的时候好了很多很多。
+- [LeetCode](https://leetcode-cn.com/)，LeetCode 刷题的体验比我刚开始学算法的时候好了很多很多。[题解](https://github.com/dancerphil/code-games/blob/master/leetcode/README.md)
 
 - [coder](https://dancerphil.github.io/coder/)，一个我自己写的小网页，可以临时记一些笔记，存在 locaStorage 里，省去了记在本地文件里。
 
