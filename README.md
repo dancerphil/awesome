@@ -74,8 +74,6 @@ __生活__
 
 __鼠标__
 
-![](https://github.com/dancerphil/awesome/blob/master/mouse.png)
-
 | 鼠标快捷键 | 说明 | 位置 |
 | --- | --- | --- |
 | `⌃⇧⇥`, `⌃⇥` | Chrome `选择上/下一个标签`, WebStorm `Close Others/Switcher`(注) | 中键两侧 |
@@ -87,15 +85,11 @@ __鼠标__
 
 __Chrome__
 
-![](https://github.com/dancerphil/awesome/blob/master/app-shortcuts.png)
-
-首先，我禁用了 `⌘W` 和 `⌘S`，在 WebStorm 频繁使用这两个键，到了 Chrome 经常误触。另外，我开启了 `⌘1~9` 快速切换的功能，有两个用，一个是你可以有一些习惯，比如你的第一个标签一直是 `localhost`，你就可以 `⌘1` 过去。另一个是在开发者工具里切换 `Element`, `Console` 之类，它们的位置是固定的。
+我禁用了 `⌘W` 和 `⌘S`，在 WebStorm 频繁使用这两个键，到了 Chrome 经常误触。关于 Chrome 如何更改快捷键可以看去年的文章。另外，我开启了 `⌘1~9` 快速切换的功能，有两个用，一个是你可以有一些习惯，比如你的第一个标签一直是 `localhost`，你就可以 `⌘1` 过去。另一个是在开发者工具里切换 `Element`, `Console` 之类，它们的位置是固定的。
 
 如果有能力完全可以根据 Chrome 多到数不清的文档定制你自己的功能。
 
 __WebStorm__
-
-__WebStorm Others__
 
 Theme 用的 Darcula，Scheme 是在 Darcula 基础上自己配的，主要是为了调整对不同代码的注意力。不过这个不要投入太多精力，毕竟 WebStorm 也在升级。说到 Webstorm 的升级，我觉得最好的策略是使用最新的 stable 版本，每个版本的功能或多或少会有惊喜，但同样因为功能多的原因，预发布不会特别稳定。
 
