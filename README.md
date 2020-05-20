@@ -1,4 +1,4 @@
-# awesome
+# awesome 2020
 
 历史版本可以通过 tag 访问，[2019](https://github.com/dancerphil/awesome/tree/2019)
 
