@@ -1,6 +1,6 @@
 # awesome
 
-历史版本可以通过 tag 访问
+历史版本可以通过 tag 访问，[2019](https://github.com/dancerphil/awesome/tree/2019)
 
 ## Mac 软件
 
@@ -50,7 +50,7 @@ __工作__
 
 - 两台 [MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)](https://www.apple.com/macbook-pro/)，一台是公司配的，开发用，一台是自己的，闲置，家里用。
 
-- __显示器__，公司配了两台，不是很好的那种，家里买了台 DELL U2720Q。
+- [DELL U2720Q](https://www.dell.com/zh-cn/work/shop/accessories/apd/210-auzv)，家里用，另外公司配了两台不是很好就不推荐了。
 
 - [Cherry G80 MX 3000](http://www.cherry.cn/view/product_detail/28)，青轴，稍响但舒服。
 
@@ -119,11 +119,13 @@ Theme 用的 Darcula，Scheme 是在 Darcula 基础上自己配的，主要是�
 
 __书__
 
+- __《指数基金投资指南》__ 银行螺丝钉，入门读物
+
 __视频__
 
-- __B站《天道》__ 好剧
+- __B站《天道》__
 
-- __B站《程晓流 围棋迷你短对局【106集】》__ 米其林
+- __B站《程晓流 围棋迷你短对局【106集】》__
 
 __游戏__
 
