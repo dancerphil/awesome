@@ -1,6 +1,6 @@
-# awesome 2020
+# awesome
 
-历史版本可以通过 tag 访问，[2019](https://github.com/dancerphil/awesome/tree/2019)
+这里是我的各种推荐，分成两部分：一部分是有时效性的东西，比如软硬件，我目前正在使用的；另一部分是无时效性的，比如书，艺术作品
 
 ## Mac 软件
 
@@ -50,9 +50,9 @@ __工作__
 
 - 两台 [MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)](https://www.apple.com/macbook-pro/)，一台是公司配的，开发用，一台是自己的，闲置，家里用。
 
-- [DELL U2720Q](https://www.dell.com/zh-cn/work/shop/accessories/apd/210-auzv)，家里用，另外公司配了两台不是很好就不推荐了。
+- [DELL U2720Q](https://www.dell.com/zh-cn/work/shop/accessories/apd/210-auzv)，和一台老婆公司收的二手 DELL U2717D，前者更好些，两台都在用。
 
-- [Cherry G80 MX 3000](http://www.cherry.cn/view/product_detail/28)，青轴，稍响但舒服。
+- [Cherry G80 MX 3000](http://www.cherry.cn/view/product_detail/28)，青轴。
 
 - [罗技 G502](https://www.logitechg.com.cn/zh-cn/products/gaming-mice/g502-proteus-spectrum-rgb-gaming-mouse.html)，配套一个配置软件 [LGS](http://support.logitech.com/software/lgs) 自定义键位提高开发效率。
 
@@ -60,7 +60,7 @@ __工作__
 
 __生活__
 
-- [iPhone SE](https://www.apple.com.cn/iphone-se/)
+- [iPhone SE](https://www.apple.com.cn/iphone-se/)，性价比高，有无线充电，没有刘海。
 
 - 耳机：潜99 ｜ 潜韵TS03，淘宝搜索 [天籁畅听](https://shop100773609.taobao.com/?spm=a230r.1.0.0.308572349AXEMR) 这家店。其中潜99是有线耳机，潜韵TS03 是蓝牙耳机。音质上各种完爆，潜99已经回购无数根，TS03也准备再买。
 
@@ -74,7 +74,25 @@ __生活__
 
 ## 书 & 视频 & 游戏
 
-这一部分就只说最今年看到的比较好的，不过品味因人而异。
+这一部分就只说每年看到的比较好的，不过品味因人而异。查看更多[游戏推荐](./Game.md)
+
+### 2021
+
+__书__
+
+- __《赘婿》__ 香蕉大魔王，网络文学
+
+- __《薛兆丰经济学讲义》__
+
+__视频__
+
+- __B站《潜伏激斗传-柯洁自站解说》__ 围棋世界冠军第一视角
+
+__其他__
+
+- [The Boolean Game](https://boolean.method.ac/) 一个设计相关的游戏
+
+### 2020
 
 __书__
 
@@ -107,3 +125,45 @@ __知乎会员__
 __其他__
 
 - __腾讯漫画《一人之下》__
+
+### 2019
+
+__书__
+
+- __《天生不同-人格类型识别和潜能开发》__ 心理学入门读物，俗称 MBTI
+
+- __《你一定爱读的极简欧洲史》__ 欧洲中世纪史通俗读物
+
+- __《刀锋》__ 小说名著
+
+- __《日本维新六十年》__ 日本近代史通俗读物
+
+__视频__
+
+- __爱奇艺《长安十二时辰》__ 
+
+- __B站《【戈登·拉姆齐】终极烹饪教程》__ 米其林
+
+__游戏__
+
+- __iOS《Florence》__ 据说是双平台
+
+- __安卓《隐形守护者》__ PC 上有，iOS 不确定。
+
+
+__知乎会员__
+
+- __《不吹不黑聊聊前端框架》__ 尤雨溪
+
+- __《AI时代的创新机会》__ 陆奇
+
+- __《穿越经济周期的投资课》__ 管清友
+
+- __《一起做一份惊艳的PPT》__ 郦橙锦妖
+
+__其他__
+
+- [The Incredible Proof Machine](http://incredible.pm/) 可视化学习形式证明
+
+- [Try OCaml](https://try.ocamlpro.com/) OCaml 官网发现的一个教程，交互一些小问题，但不影响教程的
+质量
