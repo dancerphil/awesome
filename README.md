@@ -92,6 +92,8 @@ __其他__
 
 - [The Boolean Game](https://boolean.method.ac/) 一个设计相关的游戏
 
+- [shapez](https://shapez.io/) 一款工厂游戏
+
 ### 2020
 
 __书__
