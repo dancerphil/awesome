@@ -48,7 +48,7 @@
 
 __工作__
 
-- 两台 [MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)](https://www.apple.com/macbook-pro/)，一台是公司配的，开发用，一台是自己的，闲置，家里用。
+- [MacBook Pro (13-inch, M1, 2020) + MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)](https://www.apple.com/macbook-pro/)，一台是公司配的，开发用，一台是自己的，闲置，家里用。
 
 - [DELL U2720Q](https://www.dell.com/zh-cn/work/shop/accessories/apd/210-auzv)，和一台老婆公司收的二手 DELL U2717D，前者更好些，两台都在用。
 
@@ -56,13 +56,13 @@ __工作__
 
 - [罗技 G502](https://www.logitechg.com.cn/zh-cn/products/gaming-mice/g502-proteus-spectrum-rgb-gaming-mouse.html)，配套一个配置软件 [LGS](http://support.logitech.com/software/lgs) 自定义键位提高开发效率。
 
-- 其他包括一张桌面鼠标垫。两个转接坞。
+- 全桌面鼠标垫。无限回购。
 
 __生活__
 
 - [iPhone SE](https://www.apple.com.cn/iphone-se/)，性价比高，有无线充电，没有刘海。
 
-- 耳机：潜99 ｜ 潜韵TS03，淘宝搜索 [天籁畅听](https://shop100773609.taobao.com/?spm=a230r.1.0.0.308572349AXEMR) 这家店。其中潜99是有线耳机，潜韵TS03 是蓝牙耳机。音质上各种完爆，潜99已经回购无数根，TS03也准备再买。
+- 耳机：潜99 + 潜韵TS03，淘宝搜索 [天籁畅听](https://shop100773609.taobao.com/?spm=a230r.1.0.0.308572349AXEMR) 这家店。其中潜99是有线耳机，潜韵TS03 是蓝牙耳机。无限回购。
 
 - [极米 H3](https://detail.tmall.com/item.htm?spm=a230r.1.14.15.667a3bac19OrMP&id=585910543366&ns=1&abbucket=20&sku_properties=5919063:6536025) 非常棒的一款投影仪
 
@@ -88,11 +88,23 @@ __视频__
 
 - __B站《潜伏激斗传-柯洁自站解说》__ 围棋世界冠军第一视角
 
+- __电影《黄金三镖客》
+
+__游戏__
+
+- __Web[《The Boolean Game》](https://boolean.method.ac/)__ 一个设计相关的游戏
+
+- __Web[《shapez》](https://shapez.io/)__ 一款工厂游戏
+
+- __iOS《泰拉瑞亚》__ 2D 沙盒游戏，手机的游玩体验不错
+
+- __Switch《Mario Party》__ 聚会游戏，如果你有三个游戏高手朋友，一定要玩
+
+- __Switch《健身环大冒险》__
+
 __其他__
 
-- [The Boolean Game](https://boolean.method.ac/) 一个设计相关的游戏
-
-- [shapez](https://shapez.io/) 一款工厂游戏
+- 乐高《树屋》
 
 ### 2020
 
@@ -102,7 +114,7 @@ __书__
 
 __视频__
 
-- __B站《天道》__
+- __电视剧《天道》__
 
 - __B站《程晓流 围棋迷你短对局【106集】》__
 
@@ -142,7 +154,9 @@ __书__
 
 __视频__
 
-- __爱奇艺《长安十二时辰》__ 
+- __电影《流浪地球》__
+
+- __电视剧《长安十二时辰》__ 
 
 - __B站《【戈登·拉姆齐】终极烹饪教程》__ 米其林
 
@@ -151,7 +165,6 @@ __游戏__
 - __iOS《Florence》__ 据说是双平台
 
 - __安卓《隐形守护者》__ PC 上有，iOS 不确定。
-
 
 __知乎会员__
 
