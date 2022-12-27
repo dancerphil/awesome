@@ -22,6 +22,8 @@
 
 - [npm](https://www.npmjs.com/)，作为库作者必然要打交道，即使是一般开发者，也需要定期上来看看新版本，ChangeLog 什么，一般就跳到 Github 查看更详细的信息了。
 
+- iOS [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)，npm 发包需要 2FA 了，试过微软家的完全不行，还是谷歌家的好用。
+
 - [Code Sandbox](https://codesandbox.io/) + [Code Pen](https://codepen.io/)，Code Sandbox 是 React Playground，在上面可以写各种 demo，给人提 bug，编写实验性的代码，说明自己的观点，分享，非常好用。Code Pen 则对 css 特性的代码非常友好。
 
 - [LeetCode](https://leetcode-cn.com/)，LeetCode 刷题的体验比我刚开始学算法的时候好了很多很多。[题解](https://github.com/dancerphil/code-games/blob/master/leetcode/README.md)
