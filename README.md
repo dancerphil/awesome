@@ -4,23 +4,7 @@
 
 ## Mac 软件
 
-列一些我在用的软件
-
-- [SourceTree](https://www.sourcetreeapp.com/)，git 历史的可视化，并且可以完成大部分简单的操作。
-
-- [iterm2](https://iterm2.com/) + [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) + [autosuggestion](https://github.com/zsh-users/zsh-autosuggestions)，比较多用的两个 plugin 是快速跳转 `z`，和自动补全。
-
-- [Chrome](https://www.google.com/chrome/)，前端必用，善用插件，善用调试工具，后面会说。
-
-- [WebStorm](https://www.jetbrains.com/webstorm/)，WebStorm 是主力，也有特别多定制，后面会说。
-
-- [如流](https://infoflow.baidu.com/)，工作沟通，原百度 Hi。
-
-- [Microsoft Office](https://www.office.com/)，公司的，除了 PowerPoint 都不太用，善用母版。
-
-- [ShiftIt](https://github.com/fikovnik/ShiftIt)，可以快捷键控制窗口布局，`⌃⌥⌘→` 就是把当前窗口占据右边半屏这样。我不喜欢 Mac 的最大化，所以选用了这个方案。
-
-- [XMind](https://www.xmind.cn/)，简单易用的思维导图工具
+最近把系统重新配了一下，查看[配置 Mac 新系统](https://github.com/dancerphil/awesome/blob/master/SetupMac.md)
 
 ## 网站
 
@@ -32,7 +16,7 @@
 
 - [Stack Overflow](https://stackoverflow.com/)，比较常见的问题一般可以在 Stack Overflow 找到，但是 Stack Overflow 总体而言是比较低的，只能解决有明确错误的问题，但是不能解决一个探索性的问题。
 
-- [Github](https://github.com/) + [GitPod](https://chrome.google.com/webstore/detail/gitpod-online-ide/dodmmooeoklaejobgleioelladacbeki)，在 [Github CodeSpaces](https://github.com/features/codespaces) 还没有出现的时候，我就在使用 GitPod，非常好用，可以说在我这是证明了 WebIDE 的未来。
+- [Github](https://github.com/) + [Github CodeSpaces](https://github.com/features/codespaces)。
 
 - [caniuse](https://caniuse.com/)，查看浏览器特性，由于我们支持的版本可以比较高，基本上不是特别实验性的特性都可以用。
 
@@ -40,33 +24,31 @@
 
 - [Code Sandbox](https://codesandbox.io/) + [Code Pen](https://codepen.io/)，Code Sandbox 是 React Playground，在上面可以写各种 demo，给人提 bug，编写实验性的代码，说明自己的观点，分享，非常好用。Code Pen 则对 css 特性的代码非常友好。
 
-- [twitter](https://twitter.com/) + [知乎](https://www.zhihu.com/)，我的 twitter 只关注了前端领域的各位著名作者，他们天天吹逼，特别有意思，并且也能及时知道各种消息。国内的开发者的交流主要靠知乎。
-
 - [LeetCode](https://leetcode-cn.com/)，LeetCode 刷题的体验比我刚开始学算法的时候好了很多很多。[题解](https://github.com/dancerphil/code-games/blob/master/leetcode/README.md)
 
 ## 硬件
 
 __工作__
 
-- [MacBook Pro (13-inch, M1, 2020) + MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)](https://www.apple.com/macbook-pro/)，一台是公司配的，开发用，一台是自己的，闲置，家里用。
+- [MacBook Pro (13-inch, M1, 2020) + MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)](https://www.apple.com/macbook-pro/)，一台是公司配的，开发用，一台是自己的，闲置，家里用。M1 有个大坑是只能接一个显示器，建议买 M1 Pro+。
 
-- [DELL U2720Q](https://www.dell.com/zh-cn/work/shop/accessories/apd/210-auzv)，和一台老婆公司收的二手 DELL U2717D，前者更好些，两台都在用。
+- [DELL U2720Q](https://www.dell.com/zh-cn/work/shop/accessories/apd/210-auzv)，和一台 DELL U2717D。Dell U+Q 系列还是很推荐的，U 指面向设计师，Q 指 4K。
 
-- [Cherry G80 MX 3000](http://www.cherry.cn/view/product_detail/28)，青轴。
+- [Cherry G80 MX 3000](http://www.cherry.cn/view/product_detail/28)，青轴。最近入手一个 [Keychron K12](https://www.keychron.com/pages/keychron-k12-compact-wireless-60-layout-mechanical-keyboard)，茶轴，品牌很好，但是 60% 配列太少了，后悔，准备再入手一个他家的其他配列的键盘。
 
-- [罗技 G502](https://www.logitechg.com.cn/zh-cn/products/gaming-mice/g502-proteus-spectrum-rgb-gaming-mouse.html)，配套一个配置软件 [LGS](http://support.logitech.com/software/lgs) 自定义键位提高开发效率。
+- [罗技 G502](https://www.logitechg.com.cn/zh-cn/products/gaming-mice/g502-proteus-spectrum-rgb-gaming-mouse.html)，Mac 上对应的配置软件现在只有 G Hub 了。
 
 - 全桌面鼠标垫。无限回购。
 
 __生活__
 
-- [iPhone SE](https://www.apple.com.cn/iphone-se/)，性价比高，有无线充电，没有刘海。
+- [iPhone SE 2](https://www.apple.com.cn/iphone-se/)
 
 - 耳机：潜99 + 潜韵TS03，淘宝搜索 [天籁畅听](https://shop100773609.taobao.com/?spm=a230r.1.0.0.308572349AXEMR) 这家店。其中潜99是有线耳机，潜韵TS03 是蓝牙耳机。无限回购。
 
-- [极米 H3](https://detail.tmall.com/item.htm?spm=a230r.1.14.15.667a3bac19OrMP&id=585910543366&ns=1&abbucket=20&sku_properties=5919063:6536025) 非常棒的一款投影仪
+- [极米 H3](https://detail.tmall.com/item.htm?spm=a230r.1.14.15.667a3bac19OrMP&id=585910543366&ns=1&abbucket=20&sku_properties=5919063:6536025) 非常棒的一款投影仪。
 
-- [iPad 9.7-inch](https://www.apple.com/ipad-9.7/)
+- UGREEN 无线充电器
 
 ## 快捷键
 
@@ -75,6 +57,22 @@ __生活__
 ## 书 & 视频 & 游戏
 
 这一部分就只说每年看到的比较好的，不过品味因人而异。查看更多[游戏推荐](./Game.md)
+
+### 2022
+
+__漫画__
+
+- __《灌篮高手》__ 漫画版全国大赛
+
+- __腾讯漫画《日月同错》__ 国漫，剧情向，非常推荐
+
+__游戏__
+
+- __iOS《枪火重生》__ FPS
+
+__教程__
+
+- [Web Dev](https://web.dev/) 谷歌出的前端系列教程
 
 ### 2021
 
@@ -134,7 +132,7 @@ __知乎会员__
 
 - __《阅读的思想与方法》__ 罗文益
 
-__其他__
+__漫画__
 
 - __腾讯漫画《一人之下》__
 
@@ -174,7 +172,7 @@ __知乎会员__
 
 - __《一起做一份惊艳的PPT》__ 郦橙锦妖
 
-__其他__
+__教程__
 
 - [The Incredible Proof Machine](http://incredible.pm/) 可视化学习形式证明
 
