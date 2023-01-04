@@ -14,9 +14,9 @@
     1. [iterm2](https://iterm2.com)
     2. [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)
     3. [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete)
-    4. [zsh-nvm](https://github.com/lukechilds/zsh-nvm)
-    5. plugins=(git z zsh-autosuggestions zsh-nvm)
-    6. [autojump](https://github.com/wting/autojump) `brew install autojump`
+    4. [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+    5. [zsh-nvm](https://github.com/lukechilds/zsh-nvm)
+    6. plugins=(git z zsh-autosuggestions zsh-syntax-highlighting zsh-nvm)
 5. 开发环境
     1. `nvm install --lts`
     2. [yarn](https://yarnpkg.com/getting-started/install)
