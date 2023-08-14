@@ -6,9 +6,13 @@
 
 最近把系统重新配了一下，查看[配置 Mac 新系统](https://github.com/dancerphil/awesome/blob/master/SetupMac.md)
 
-# 网站
+# 软件
 
-一些常用的网站，工作相关
+__研发工具__
+
+- [Copilot](https://github.com/features/copilot/)，个人使用中的采纳率还是相当高的，可以算是最好的，也是最频繁最值的一个工具。
+
+- [ChatGPT](https://chat.openai.com/chat)，很是靠谱的辅助工具，gpt@3.5 版本。
 
 - [Bing](https://cn.bing.com/)，主力搜索引擎，国际版，当你想要国内信息也可以切换，谷歌也是很好用的，但不稳定，百度差一些，主要还是国内信息质量的问题。
 
@@ -34,23 +38,33 @@ __工作__
 
 - [MacBook Pro (13-inch, M1, 2020) + MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)](https://www.apple.com/macbook-pro/)，一台是公司配的，开发用，一台是自己的，闲置，家里用。M1 有个大坑是只能接一个显示器，建议买 M1 Pro+。
 
-- [DELL U2720Q](https://www.dell.com/zh-cn/work/shop/accessories/apd/210-auzv)，和一台 DELL U2717D。Dell U+Q 系列还是很推荐的，U 指面向设计师，Q 指 4K。
+- 显示器：
+  - [小米显示器27英寸4K版](https://www.mi.com/mimonitor-4k)，便宜好用。
+  - [DELL U2720Q](https://www.dell.com/zh-cn/work/shop/accessories/apd/210-auzv)。Dell U+Q 系列还是很推荐的，就是贵。
+  - DELL U2717D
 
-- [Cherry G80 MX 3000](http://www.cherry.cn/view/product_detail/28)，青轴。最近入手一个 [Keychron K12](https://www.keychron.com/pages/keychron-k12-compact-wireless-60-layout-mechanical-keyboard)，茶轴，品牌很好，但是 60% 配列太少了，后悔，准备再入手一个他家的其他配列的键盘。
+- 键盘
+  - [Keychron K6](https://www.keychron.com/products/keychron-k6-pro-qmk-via-wireless-custom-mechanical-keyboard)，青轴。
+  - [Cherry G80 MX 3000](http://www.cherry.cn/view/product_detail/28)，青轴。
+  - 最近入手一个 [Keychron K12](https://www.keychron.com/pages/keychron-k12-compact-wireless-60-layout-mechanical-keyboard)，茶轴，不推荐，60% 配列太少了，后续又入了 K6。
 
-- [罗技 G502](https://www.logitechg.com.cn/zh-cn/products/gaming-mice/g502-proteus-spectrum-rgb-gaming-mouse.html)，Mac 上对应的配置软件现在只有 G Hub 了。
+- [罗技 G502](https://www.logitechg.com.cn/zh-cn/products/gaming-mice/g502-proteus-spectrum-rgb-gaming-mouse.html)，两个。
 
-- 全桌面鼠标垫。无限回购。
+- 全桌面鼠标垫。
 
 __生活__
 
-- [iPhone SE 2](https://www.apple.com.cn/iphone-se/)
+- iPhone XR，老婆用剩的机器。
 
 - 耳机：潜99 + 潜韵TS03，淘宝搜索 [天籁畅听](https://shop100773609.taobao.com/?spm=a230r.1.0.0.308572349AXEMR) 这家店。其中潜99是有线耳机，潜韵TS03 是蓝牙耳机。无限回购。
 
 - [极米 H3](https://detail.tmall.com/item.htm?spm=a230r.1.14.15.667a3bac19OrMP&id=585910543366&ns=1&abbucket=20&sku_properties=5919063:6536025) 非常棒的一款投影仪。
 
 - UGREEN 无线充电器
+
+- 魔方
+  - GAN 356m
+  - 奇艺 M pro 磁悬浮版
 
 # 快捷键
 
@@ -59,6 +73,12 @@ __生活__
 # 书 & 视频 & 游戏
 
 这一部分就只说每年看到的比较好的，不过品味因人而异。查看更多[游戏推荐](./Game.md)
+
+## 2023
+
+__书__
+
+- __《翦商：殷周之变与华夏新生》__ 古代史
 
 ## 2022
 
