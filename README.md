@@ -80,6 +80,10 @@ __书__
 
 - __《翦商：殷周之变与华夏新生》__ 古代史
 
+__视频__
+
+- __B站[《大国政治的悲剧》](https://www.bilibili.com/video/BV13d4y1P7jU)__，米尔斯海默
+
 __教程__
 
 - [CubeSkills](https://www.cubeskills.com/)，菲神的魔方教程
