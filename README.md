@@ -54,17 +54,15 @@ __工作__
 
 __生活__
 
-- iPhone XR，老婆用剩的机器。
+- iPhone XR：老婆用剩的机器。
 
-- 耳机：潜99 + 潜韵TS03，淘宝搜索 [天籁畅听](https://shop100773609.taobao.com/?spm=a230r.1.0.0.308572349AXEMR) 这家店。其中潜99是有线耳机，潜韵TS03 是蓝牙耳机。无限回购。
+- 耳机
+  - 潜99 [天籁畅听](https://shop100773609.taobao.com/?spm=a230r.1.0.0.308572349AXEMR)。有线耳机，音质不错。这家店不再售无线耳机了，不再推荐。
+  - 水雨月-太空漫游。蓝牙耳机，149，有声音。
 
-- [极米 H3](https://detail.tmall.com/item.htm?spm=a230r.1.14.15.667a3bac19OrMP&id=585910543366&ns=1&abbucket=20&sku_properties=5919063:6536025) 非常棒的一款投影仪。
+- [极米 H3](https://detail.tmall.com/item.htm?spm=a230r.1.14.15.667a3bac19OrMP&id=585910543366&ns=1&abbucket=20&sku_properties=5919063:6536025)：非常棒的一款投影仪。
 
-- UGREEN 无线充电器
-
-- 魔方
-  - GAN 356m
-  - 奇艺 M pro 磁悬浮版
+- GAN 356m：一款磁吸魔方
 
 # 快捷键
 
