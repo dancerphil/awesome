@@ -25,7 +25,7 @@
 
 </details>
 
-## 2003年 PC《魔兽争霸3：冰封王座》
+## 2003年 PC《魔兽争霸3：冰封王座 Warcraft III: The Frozen Throne》
 
 当时网吧只有它和CS。
 
@@ -44,7 +44,7 @@
 
 ![](https://img.shields.io/badge/★-即时战略游戏在影响力上的巅峰-9254de)
 
-## 2004年 PC《魔兽世界》
+## 2004年 PC《魔兽世界 World of Warcraft》
 
 无法超越的 MMORPG。后期剧情有点崩，而且玩法也趋同并且肝起来了，就是没有新的东西了。
 
@@ -63,7 +63,7 @@
 
 ![](https://img.shields.io/badge/★-社交体验-9254de)
 
-## 2008年 PC《时空幻境》
+## 2008年 PC《时空幻境 Braid》
 
 一款短作，带有游戏艺术特质的作品，以时间作为核心概念，围绕着时间的概念进行了玩法、关卡、剧情的设计，至今依旧值得游玩。
 
@@ -84,7 +84,7 @@
 
 ![](https://img.shields.io/badge/★-艺术感-9254de)
 
-## 2009年 PC《植物大战僵尸》
+## 2009年 PC《植物大战僵尸 Plants vs. Zombies》
 
 PVZ 就是玩不腻，你让我现在下载下载再玩一遍我也能玩下去。然后说下续作全是垃圾。
 
@@ -99,7 +99,7 @@ PVZ 就是玩不腻，你让我现在下载下载再玩一遍我也能玩下去�
 
 ![](https://img.shields.io/badge/★-优秀的关卡设计-9254de)
 
-## 2014年 PC《炉石传说》
+## 2014年 PC《炉石传说 Hearthstone》
 
 虽然天梯石头剪刀布吧，还是非常好玩的，每一套牌都是自己构筑了机制，然后再游玩自己构筑的机制。
 
@@ -112,7 +112,7 @@ PVZ 就是玩不腻，你让我现在下载下载再玩一遍我也能玩下去�
 ![](https://img.shields.io/badge/时长-★-36cfc9)
 ![](https://img.shields.io/badge/其他--9254de)
 
-## 2017年 PC《绝地求生：大逃杀》
+## 2017年 PC《绝地求生：大逃杀 PUBG: Battlegrounds》
 
 还记得第一次吃鸡时的感觉吗？
 
@@ -131,7 +131,7 @@ PVZ 就是玩不腻，你让我现在下载下载再玩一遍我也能玩下去�
 
 ## 2018年 iOS《Florence》
 
-一款短作，可交互电影。
+一款短作，可交互动画电影。
 
 ![](https://img.shields.io/badge/总分-8-green)
 
@@ -146,7 +146,7 @@ PVZ 就是玩不腻，你让我现在下载下载再玩一遍我也能玩下去�
 
 ![](https://img.shields.io/badge/★-艺术感-9254de)
 
-## 2019年 iOS《炉石传说》酒馆战棋模式
+## 2019年 iOS《炉石传说 Hearthstone》酒馆战棋模式
 
 我觉得酒馆战棋比自走棋好玩多了。
 
@@ -166,9 +166,9 @@ PVZ 就是玩不腻，你让我现在下载下载再玩一遍我也能玩下去�
     评分一般的游戏
   </summary>
 
-## 1999 PC《大航海时代4》
+## 1999 PC《大航海时代4 Uncharted Waters IV》
 
-开船周游世界买卖商品。
+开船周游世界买卖商品的 RPG。
 
 ![](https://img.shields.io/badge/总分-5-green)
 
@@ -179,7 +179,7 @@ PVZ 就是玩不腻，你让我现在下载下载再玩一遍我也能玩下去�
 ![](https://img.shields.io/badge/时长-★-36cfc9)
 ![](https://img.shields.io/badge/其他--9254de)
 
-## 2002年 PC《魔兽争霸3：混乱之治》
+## 2002年 PC《魔兽争霸3：混乱之治 Warcraft III: Reign of Chaos》
 
 整体巅峰还是在冰封王座。
 
@@ -192,7 +192,7 @@ PVZ 就是玩不腻，你让我现在下载下载再玩一遍我也能玩下去�
 ![](https://img.shields.io/badge/时长-★-36cfc9)
 ![](https://img.shields.io/badge/其他--9254de)
 
-## 2007年 PC《传送门》
+## 2007年 PC《传送门 Portal》
 
 一款短作，以空间传送作为核心概念。
 
@@ -205,7 +205,7 @@ PVZ 就是玩不腻，你让我现在下载下载再玩一遍我也能玩下去�
 ![](https://img.shields.io/badge/时长-☆-36cfc9)
 ![](https://img.shields.io/badge/其他--9254de)
 
-## 2009年 iOS《浴火银河2》
+## 2009年 iOS《浴火银河2 Galaxy on Fire 2》
 
 星辰大海是男人的浪漫。
 
@@ -218,7 +218,7 @@ PVZ 就是玩不腻，你让我现在下载下载再玩一遍我也能玩下去�
 ![](https://img.shields.io/badge/时长-★-36cfc9)
 ![](https://img.shields.io/badge/其他--9254de)
 
-## 2010年 PC《星际争霸2》
+## 2010年 PC《星际争霸2 StarCraft II》
 
 好不好玩另说，是真操作不过来。
 
@@ -233,7 +233,7 @@ PVZ 就是玩不腻，你让我现在下载下载再玩一遍我也能玩下去�
 
 ![](https://img.shields.io/badge/★-在考验人类操作极限的层面超过了魔兽争霸-9254de)
 
-## 2011年 PC《无双大蛇2》
+## 2011年 PC《无双大蛇2 Musou Orochi 2》
 
 刷子游戏，刷英雄练度和武器，真三系列还玩过几部，感觉这部比较好玩。
 
@@ -246,7 +246,7 @@ PVZ 就是玩不腻，你让我现在下载下载再玩一遍我也能玩下去�
 ![](https://img.shields.io/badge/时长-★-36cfc9)
 ![](https://img.shields.io/badge/其他--9254de)
 
-## 2012年 PC《十字军之王2》
+## 2012年 PC《十字军之王2 Crusader Kings II》
 
 格拉摩根伯爵。好玩，很耗时。
 
@@ -256,19 +256,6 @@ PVZ 就是玩不腻，你让我现在下载下载再玩一遍我也能玩下去�
 ![](https://img.shields.io/badge/创意-☆-ff4d4f)
 ![](https://img.shields.io/badge/风格-☆-f759ab)
 ![](https://img.shields.io/badge/内容-★-d48806)
-![](https://img.shields.io/badge/时长-★-36cfc9)
-![](https://img.shields.io/badge/其他--9254de)
-
-## 2012年 PC《刺客信条3》
-
-刺客信条战士版，我一直觉得剧情大作就那样，没机制只玩剧情的话，那就得和电影比。
-
-![](https://img.shields.io/badge/总分-5-green)
-
-![](https://img.shields.io/badge/乐趣-★★★☆☆-4096ff)
-![](https://img.shields.io/badge/创意-☆-ff4d4f)
-![](https://img.shields.io/badge/风格-★-f759ab)
-![](https://img.shields.io/badge/内容-☆-d48806)
 ![](https://img.shields.io/badge/时长-★-36cfc9)
 ![](https://img.shields.io/badge/其他--9254de)
 
@@ -298,6 +285,23 @@ PVZ 就是玩不腻，你让我现在下载下载再玩一遍我也能玩下去�
 ![](https://img.shields.io/badge/时长-★-36cfc9)
 ![](https://img.shields.io/badge/其他--9254de)
 
+## 2012年-2014年 PC《刺客信条 Assassin's Creed》系列
+
+- 2012年 PC《刺客信条3 Assassin's Creed III》
+- 2013年 PC《刺客信条4：黑旗 Assassin's Creed IV: Black Flag》
+- 2014年 PC《刺客信条：大革命 Assassin's Creed Unity》
+
+剧情大作嘛，到如今就记不得什么特色了，当时还是玩的挺开心的。
+
+![](https://img.shields.io/badge/总分-6-green)
+
+![](https://img.shields.io/badge/乐趣-★★★★☆-4096ff)
+![](https://img.shields.io/badge/创意-☆-ff4d4f)
+![](https://img.shields.io/badge/风格-★-f759ab)
+![](https://img.shields.io/badge/内容-☆-d48806)
+![](https://img.shields.io/badge/时长-★-36cfc9)
+![](https://img.shields.io/badge/其他--9254de)
+
 ## 2015年 iOS《人力资源机器 Human Resource Machine》
 
 一款短作，以编程作为核心概念，上班已经很累了，玩游戏也要写代码吗。
@@ -311,7 +315,7 @@ PVZ 就是玩不腻，你让我现在下载下载再玩一遍我也能玩下去�
 ![](https://img.shields.io/badge/时长-★-36cfc9)
 ![](https://img.shields.io/badge/其他--9254de)
 
-## 2016年 PC《守望先锋》
+## 2016年 PC《守望先锋 Overwatch》
 
 其实还是挺好玩的，但是到了高分段就越来越重复和累，最终负反馈战胜正反馈。
 
@@ -324,7 +328,7 @@ PVZ 就是玩不腻，你让我现在下载下载再玩一遍我也能玩下去�
 ![](https://img.shields.io/badge/时长-★-36cfc9)
 ![](https://img.shields.io/badge/其他--9254de)
 
-## 2018年 iOS《密教模拟器》
+## 2018年 iOS《密教模拟器 Cultist Simulator》
 
 题材特别独特，探索到后期，在不看攻略的情况下就有点迷茫了，玩家的选择少导致不好玩
 
@@ -337,7 +341,9 @@ PVZ 就是玩不腻，你让我现在下载下载再玩一遍我也能玩下去�
 ![](https://img.shields.io/badge/时长-☆-36cfc9)
 ![](https://img.shields.io/badge/其他--9254de)
 
-## 2019年 Android《隐形守护者》
+## 2019年 Android《隐形守护者 The Invisible Guardian》
+
+国产互动式电影游戏，形式还是很新颖的。
 
 ![](https://img.shields.io/badge/总分-6-green)
 
@@ -348,7 +354,7 @@ PVZ 就是玩不腻，你让我现在下载下载再玩一遍我也能玩下去�
 ![](https://img.shields.io/badge/时长-☆-36cfc9)
 ![](https://img.shields.io/badge/其他--9254de)
 
-## 2020年 iOS《原神》
+## 2020年 iOS《原神 Genshin Impact》
 
 一款多元素游戏，在画面、音乐、剧情、场景等方面均远超竞品。但是越来越肝导致不好玩了。
 
@@ -368,12 +374,12 @@ PVZ 就是玩不腻，你让我现在下载下载再玩一遍我也能玩下去�
     愿望单
   </summary>
 
-## 2015年 PC《GTA5》
+## 2015年 PC《Grand Theft Auto V》
 
-## 2019年 PC《只狼：影逝二度》
+## 2019年 PC《只狼：影逝二度 Sekiro: Shadows Die Twice》
 
 以战斗体系作为核心玩法的一款游戏。体验不深暂不评价
 
-## 2020年 PC《骑马与砍杀2：霸主》
+## 2020年 PC《骑马与砍杀2：霸主 Mount & Blade II: Bannerlord》
 
 </details>
