@@ -2,10 +2,6 @@
 
 这里是我的各种推荐，分成两部分：一部分是有时效性的东西，比如软硬件，我目前正在使用的；另一部分是无时效性的，比如书，艺术作品
 
-# Mac 软件
-
-最近把系统重新配了一下，查看[配置 Mac 新系统](https://github.com/dancerphil/awesome/blob/master/SetupMac.md)
-
 # 软件
 
 __研发工具__
@@ -26,11 +22,17 @@ __研发工具__
 
 - [npm](https://www.npmjs.com/)，作为库作者必然要打交道，即使是一般开发者，也需要定期上来看看新版本，ChangeLog 什么，一般就跳到 Github 查看更详细的信息了。
 
-- iOS [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)，npm 发包需要 2FA 了，试过微软家的完全不行，还是谷歌家的好用。
+- [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)，npm 发包需要 2FA 了，试过微软家的完全不行，还是谷歌家的好用。
 
 - [Code Sandbox](https://codesandbox.io/) + [Code Pen](https://codepen.io/)，Code Sandbox 是 React Playground，在上面可以写各种 demo，给人提 bug，编写实验性的代码，说明自己的观点，分享，非常好用。Code Pen 则对 css 特性的代码非常友好。
 
 - [LeetCode](https://leetcode-cn.com/)，LeetCode 刷题的体验比我刚开始学算法的时候好了很多很多。[题解](https://github.com/dancerphil/code-games/blob/master/leetcode/README.md)
+
+__配置__
+
+- [配置 Mac 新系统](./SetupMac.md)
+
+- [查看快捷键的推荐](./Keymap.md)
 
 # 硬件
 
@@ -46,33 +48,38 @@ __工作__
 - 键盘
   - [Keychron K6](https://www.keychron.com/products/keychron-k6-pro-qmk-via-wireless-custom-mechanical-keyboard)，青轴。
   - [Cherry G80 MX 3000](http://www.cherry.cn/view/product_detail/28)，青轴。
-  - 最近入手一个 [Keychron K12](https://www.keychron.com/pages/keychron-k12-compact-wireless-60-layout-mechanical-keyboard)，茶轴，不推荐，60% 配列太少了，后续又入了 K6。
+  - 最近入手一个 [Keychron K12](https://www.keychron.com/pages/keychron-k12-compact-wireless-60-layout-mechanical-keyboard)，茶轴，不推荐，60% 配列太少了。
 
-- [罗技 G502](https://www.logitechg.com.cn/zh-cn/products/gaming-mice/g502-proteus-spectrum-rgb-gaming-mouse.html)，两个。
+- [罗技 G502](https://www.logitechg.com.cn/zh-cn/products/gaming-mice/g502-proteus-spectrum-rgb-gaming-mouse.html) * 2。
 
 - 全桌面鼠标垫。
 
 __生活__
 
-- iPhone XR：老婆用剩的机器。
+- 小米14：整体体验不如 iOS。优点：用了高刷就回不去低刷了，便宜。缺点：系统总要教我做人。
 
 - 耳机
-  - 潜99 [天籁畅听](https://shop100773609.taobao.com/?spm=a230r.1.0.0.308572349AXEMR)。有线耳机，音质不错。这家店不再售无线耳机了，不再推荐。
-  - 水雨月-太空漫游。蓝牙耳机，149，有声音。
+  - 潜99 [天籁畅听](https://shop100773609.taobao.com/?spm=a230r.1.0.0.308572349AXEMR)。有线耳机，99，音质不错。
+  - 倍思 WM02。蓝牙耳机，91，有声音，轻便。
+  - 水雨月-太空漫游。蓝牙耳机，149，有声音，有降噪。
 
 - [极米 H3](https://detail.tmall.com/item.htm?spm=a230r.1.14.15.667a3bac19OrMP&id=585910543366&ns=1&abbucket=20&sku_properties=5919063:6536025)：非常棒的一款投影仪。
 
 - GAN 356m：一款磁吸魔方
-
-# 快捷键
-
-[查看快捷键的推荐](./Keymap.md)
 
 # 书 & 视频 & 游戏
 
 这一部分就只说每年看到的比较好的，不过品味因人而异。查看更多[游戏推荐](./Game.md)
 
 ## 2023
+
+__游戏__
+
+- __Steam《哈迪斯 Hades》__ 动作肉鸽
+
+- __Steam《Patrick's Parabox》__ 解谜
+
+- __Mobile《月圆之夜》联机对战__ 自走棋，和炉石酒馆非常像
 
 __书__
 
@@ -84,7 +91,7 @@ __视频__
 
 __教程__
 
-- [CubeSkills](https://www.cubeskills.com/)，菲神的魔方教程
+- [CubeSkills](https://www.cubeskills.com/)，菲神的魔方教程，今年也是 sub20 了。
 
 ## 2022
 
