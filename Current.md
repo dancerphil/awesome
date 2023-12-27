@@ -25,3 +25,7 @@ __视频__
 __教程__
 
 - [CubeSkills](https://www.cubeskills.com/)，菲神的魔方教程，今年成功 sub20。
+
+__美食__
+
+- 光明邨大酒家
