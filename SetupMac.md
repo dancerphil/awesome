@@ -33,5 +33,9 @@
 ### 可选
 
 1. [SourceTree](https://www.sourcetreeapp.com)
-2. [ZeroOmega](https://chromewebstore.google.com/detail/proxy-switchyomega-3-zero/pfnededegaaopdmhkdmcofjmoldfiped?pli=1)
+2. [Docker](https://www.docker.com/products/docker-desktop/)
+3. [Chromium](https://download-chromium.appspot.com/)
+4. [DBeaver](https://dbeaver.io/)
+5. [VsCode](https://code.visualstudio.com/)
+6. [ZeroOmega](https://chromewebstore.google.com/detail/proxy-switchyomega-3-zero/pfnededegaaopdmhkdmcofjmoldfiped?pli=1)
 
